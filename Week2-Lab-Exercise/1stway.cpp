@@ -1,9 +1,7 @@
-
-//Normal way of Implementation
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
-#include <string.h>
+#include <string.h> //Normal way of Implementation
 #include <math.h>
 int main() {
     int i = 0, j = 0, x = 0, n;
